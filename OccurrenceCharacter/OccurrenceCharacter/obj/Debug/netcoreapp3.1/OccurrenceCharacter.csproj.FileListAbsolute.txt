@@ -1,0 +1,13 @@
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\bin\Debug\netcoreapp3.1\OccurrenceCharacter.exe
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\bin\Debug\netcoreapp3.1\OccurrenceCharacter.deps.json
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\bin\Debug\netcoreapp3.1\OccurrenceCharacter.runtimeconfig.json
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\bin\Debug\netcoreapp3.1\OccurrenceCharacter.runtimeconfig.dev.json
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\bin\Debug\netcoreapp3.1\OccurrenceCharacter.dll
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\bin\Debug\netcoreapp3.1\OccurrenceCharacter.pdb
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\obj\Debug\netcoreapp3.1\OccurrenceCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\obj\Debug\netcoreapp3.1\OccurrenceCharacter.AssemblyInfoInputs.cache
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\obj\Debug\netcoreapp3.1\OccurrenceCharacter.AssemblyInfo.cs
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\obj\Debug\netcoreapp3.1\OccurrenceCharacter.csproj.CoreCompileInputs.cache
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\obj\Debug\netcoreapp3.1\OccurrenceCharacter.dll
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\obj\Debug\netcoreapp3.1\OccurrenceCharacter.pdb
+C:\Users\raddu\source\repos\OccurrenceCharacter\OccurrenceCharacter\obj\Debug\netcoreapp3.1\OccurrenceCharacter.genruntimeconfig.cache
